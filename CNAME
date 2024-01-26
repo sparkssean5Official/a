@@ -1,4 +1,4 @@
-$ dig WWW.EXAMPLE.COM +nostats +nocomments +nocmd
+$ dig WWW.MYTHINGS.COM +nostats +nocomments +nocmd
 > ;WWW.MYTHINGS.COM.                    IN      A
 > WWW.MYTHINGS.COM.             3592    IN      CNAME   sparkssean5Official.github.io.
 > sparkssean5Official.github.io.      43192   IN      CNAME   GITHUB-PAGES-SERVER .
